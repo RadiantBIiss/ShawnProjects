@@ -2,7 +2,7 @@ package CounterAceHardware;
 
 public class AceHardwareListing
 {
-	//instance variables
+	//instance variables yoo
 	private String employee;
 	private String occupation;
 	private double salary;
